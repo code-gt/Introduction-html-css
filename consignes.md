@@ -52,7 +52,7 @@ Bienvenue dans ce TP d'introduction à HTML/CSS ! Ce tutoriel vous guidera à tr
 ## Remarques
 
 - N'hésitez pas à poser des questions si quelque chose n'est pas clair.
-- Amusez-vous en explorant la création de votre première page web !
+- Amusez-vous en explorant la création de votre première page web !!
 
 ---
 
